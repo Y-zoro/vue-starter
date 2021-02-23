@@ -1,0 +1,17 @@
+@import './svgicon.scss';
+
+/* Global scss */
+/* 进度条开始 */
+#nprogress {
+  .bar {
+    background: $base-color-blue !important;
+  }
+
+  .peg {
+    box-shadow: 0 0 10px $base-color-blue, 0 0 5px $base-color-blue !important;
+  }
+}
+.lp {
+  letter-spacing: 5px;
+  color: $menuActiveText;
+}

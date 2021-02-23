@@ -1,0 +1,11 @@
+/* eslint-disable */
+import './bug'
+import './chart'
+import './clipboard'
+import './component'
+import './dashboard'
+import './documentation'
+import './drag'
+import './edit'
+import './education'
+import './email'
